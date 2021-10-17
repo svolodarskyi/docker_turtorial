@@ -394,7 +394,7 @@ docker-compose stop
 
 To delete containers
 ```cmd
-docker-compose stop
+docker-compose down
 ```
 
 Type in command to check existing volumes on your local machine:
