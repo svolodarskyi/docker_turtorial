@@ -2,9 +2,7 @@
 
 # What is the docker in simple words?
 
-It is virtual entity, cerated to solve one specific task.
-This is not a full-fledges virtual system such as Virtual Box. It is just a cut version of the virtual machine which will serve only ,for example, Jupyter notebooks.
-What's great about docker? If you can install docker on your computer, you can launch any possible image. You can transfer it to other person to make sure you have same development environment with other person.
+It is virtual entity, cerated to solve specific tasks. This is not a full-fledges virtual system such as Virtual Box. It is just a cut version of the virtual machine which will serve only ,for example, Jupyter notebooks. What's great about docker? If you can install docker on your computer, you can launch any possible image. You can transfer it to other person to make sure you have same development environment with other person.
 
 To check if docker is running, type in the terminal
 
