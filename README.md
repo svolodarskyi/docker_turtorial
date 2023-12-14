@@ -294,7 +294,7 @@ As well modify the **Dockerfile** to include new library ```psycopg2```:
 ```
 FROM jupyter/scipy-notebook:33add21fab64
 
-RUN pip3 install pandas psycopg2     
+RUN pip3 install pandas psycopg2-binary  
 
 ```
 
